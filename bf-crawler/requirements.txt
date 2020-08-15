@@ -1,0 +1,4 @@
+scrapy
+news-please
+google-cloud-datastore
+tldextract
